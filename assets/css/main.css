@@ -107,7 +107,9 @@ input, select, textarea {
  fixed;
 		background-position: center,
  center;
+		animation: fade-picture 1000ms ease-in-out; 
 	}
+
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
 			-moz-animation: none !important;
